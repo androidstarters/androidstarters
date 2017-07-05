@@ -1,0 +1,52 @@
+{
+  "name": "androidstarters",
+  "version": "0.0.0",
+  "description": "Kickstart your next android app in 10 secs.",
+  "homepage": "",
+  "author": {
+    "name": "Ravindra Kumar",
+    "email": "ravidsrk@gmail.com",
+    "url": ""
+  },
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "keywords": [
+    "android"
+  ],
+  "devDependencies": {
+    "coveralls": "^2.13.1",
+    "nsp": "^2.6.3",
+    "eslint": "^4.1.0",
+    "eslint-config-xo-space": "^0.16.0",
+    "jest": "^19.0.2",
+    "jest-cli": "^20.0.0"
+  },
+  "scripts": {
+    "prepublish": "nsp check",
+    "pretest": "eslint . --fix",
+    "test": "jest"
+  },
+  "eslintConfig": {
+    "extends": "xo-space",
+    "env": {
+      "jest": true,
+      "node": true
+    }
+  },
+  "repository": "ravidsrk/androidstarters",
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "archiver": "^1.3.0",
+    "fs": "0.0.1-security",
+    "mem-fs": "^1.1.3",
+    "mem-fs-editor": "^3.0.2",
+    "mkdirp": "^0.5.1",
+    "path": "^0.12.7",
+    "rimraf": "^2.6.1"
+  }
+}
