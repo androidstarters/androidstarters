@@ -1,0 +1,157 @@
+{
+    "defaultPackageDir": "io/mvpstarter/sample",
+    "dirs": [
+        {
+            "packageDir": false,
+            "name": "",
+            "appName": true
+        },
+        {
+            "packageDir": false,
+            "name": "/app",
+            "appName": true
+        },
+        {
+            "packageDir": false,
+            "name": "/app/src/main/assets",
+            "appName": true
+        },
+        {
+            "packageDir": true,
+            "name": "/app/src/main/java/",
+            "appName": true
+        },
+        {
+            "packageDir": true,
+            "name": "/app/src/androidTest/java/",
+            "appName": true
+        },
+        {
+            "packageDir": true,
+            "name": "/app/src/commonTest/java/",
+            "appName": true
+        },
+        {
+            "packageDir": false,
+            "name": "/app/src/debug",
+            "appName": true
+        },
+        {
+            "packageDir": false,
+            "name": "/app/src/release",
+            "appName": true
+        },
+        {
+            "packageDir": false,
+            "name": "/app/src/test/resources",
+            "appName": true
+        },
+        {
+            "packageDir": true,
+            "name": "/app/src/test/java/",
+            "appName": true
+        }
+    ],
+    "files": [
+        {
+            "name": "gitignore",
+            "prefixDot": true,
+            "props": false
+        },
+        {
+            "name": "build.gradle",
+            "prefixDot": false,
+            "props": false
+        },
+        {
+            "name": "gradle.properties",
+            "prefixDot": false,
+            "props": false
+        },
+        {
+            "name": "gradlew",
+            "prefixDot": false,
+            "props": false
+        },
+        {
+            "name": "gradlew.bat",
+            "prefixDot": false,
+            "props": false
+        },
+        {
+            "name": "settings.gradle",
+            "prefixDot": false,
+            "props": false
+        },
+        {
+            "name": "app/gitignore",
+            "prefixDot": false,
+            "props": false
+        },
+        {
+            "name": "app/lint.xml",
+            "prefixDot": false,
+            "props": false
+        },
+        {
+            "name": "app/dependencies.gradle",
+            "prefixDot": false,
+            "props": false
+        },
+        {
+            "name": "app/proguard-rules.pro",
+            "prefixDot": false,
+            "props": false
+        },
+        {
+            "name": "gradle",
+            "prefixDot": false,
+            "props": false
+        },
+        {
+            "name": "app/src/main/res",
+            "prefixDot": false,
+            "props": false
+        },
+        {
+            "name": "app/src/test/resources",
+            "prefixDot": false,
+            "props": false
+        },
+        {
+            "name": "README.md",
+            "prefixDot": false,
+            "props": true
+        },
+        {
+            "name": "app/build.gradle",
+            "prefixDot": false,
+            "props": true
+        },
+        {
+            "name": "app/src/main/AndroidManifest.xml",
+            "prefixDot": false,
+            "props": true
+        },
+        {
+            "name": "app/src/debug/AndroidManifest.xml",
+            "prefixDot": false,
+            "props": true
+        },
+        {
+            "name": "app/src/main/res/layout",
+            "prefixDot": false,
+            "props": true
+        },
+        {
+            "name": "app/src/release/res",
+            "prefixDot": false,
+            "props": true
+        },
+        {
+            "name": "app/src/debug/res",
+            "prefixDot": false,
+            "props": true
+        }
+    ]
+}
