@@ -12,7 +12,16 @@ $ npm install --save androidstarters
 ```js
 const androidstarters = require('androidstarters');
 
-androidstarters('Rainbow');
+const config = {
+  appName: 'SampleApp',
+  packageName: 'io.sample.app',
+  templateName: 'kotlin',
+  props: {
+    appPackage: 'io.sample.app'
+  }
+};
+
+androidstarters(config);
 ```
 ## License
 
