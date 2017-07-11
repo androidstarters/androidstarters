@@ -1,0 +1,10 @@
+androidstarters-java
+androidstarters-kotlin
+googlesamples-databinding
+googlesamples-mvp
+googlesamples-mvp-clean
+googlesamples-mvp-contentproviders
+googlesamples-mvp-dagger
+googlesamples-mvp-loaders
+googlesamples-mvp-rxjava
+googlesamples-mvvm-databinding
