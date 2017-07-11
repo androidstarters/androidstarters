@@ -1,5 +1,5 @@
 {
-  "defaultPackageDir": "example/android/architecture/blueprints/todoapp",
+  "defaultPackageDir": "/com/example/android/architecture/blueprints/todoapp",
   "dirs": [
     {
       "appName": true,
@@ -92,11 +92,6 @@
       "name": "app/src/main/res",
       "prefixDot": false,
       "props": false
-    },
-    {
-      "name": "README.md",
-      "prefixDot": false,
-      "props": true
     },
     {
       "name": "app/build.gradle",

@@ -1,5 +1,5 @@
 {
-  "defaultPackageDir": "io/mvpstarter/sample",
+  "defaultPackageDir": "/io/mvpstarter/sample",
   "dirs": [
     {
       "appName": true,
