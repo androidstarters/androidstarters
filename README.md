@@ -30,9 +30,9 @@ MIT © [Ravindra Kumar]()
 
 [npm-image]: https://badge.fury.io/js/androidstarters.svg
 [npm-url]: https://npmjs.org/package/androidstarters
-[travis-image]: https://travis-ci.org/ravidsrk/androidstarters.svg?branch=master
-[travis-url]: https://travis-ci.org/ravidsrk/androidstarters
-[daviddm-image]: https://david-dm.org/ravidsrk/androidstarters.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/ravidsrk/androidstarters
+[travis-image]: https://travis-ci.org/androidstarters/androidstarters.svg?branch=master
+[travis-url]: https://travis-ci.org/androidstarters/androidstarters
+[daviddm-image]: https://david-dm.org/androidstarters/androidstarters.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/androidstarters/androidstarters
 [coveralls-image]: https://coveralls.io/repos/ravidsrk/androidstarters/badge.svg
 [coveralls-url]: https://coveralls.io/r/ravidsrk/androidstarters
